@@ -1,0 +1,4 @@
+br\com\well\loto_api\controll\LotteryController.class
+br\com\well\loto_api\service\LotteryService.class
+br\com\well\loto_api\LotoApiApplication.class
+br\com\well\loto_api\ServletInitializer.class
